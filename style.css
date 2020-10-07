@@ -19,7 +19,7 @@ body {
 .line {
     position: absolute;
     height: 150px;
-    width: 5%;
+    width: 4%;
     margin-left: 48%;
     background-color: darkgray;
 }
