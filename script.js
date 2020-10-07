@@ -14,4 +14,11 @@ $(function() {
     var restart_btn = $('.restart_btn');
     var restart = $('#restart');
     var score = $('#score');
+
+    //saving some initial setup
+    var container_left = parseInt(container.css('left'));
+    var container_width = parseInt(container.width());
+    var container_height = parseInt(container.height());
+    var car_0_width = parseInt(car_0.width());
+    var car_0_height = parseInt(car_0.height());
 })
