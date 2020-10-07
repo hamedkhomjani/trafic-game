@@ -172,3 +172,14 @@ body {
 .small_text {
     font-size: 10px;
 }
+
+.score_div {
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 10%;
+    font-size: 35px;
+    background-color: white;
+    color: blueviolet;
+    padding: 10px;
+    box-shadow: 4px 4px 0px 1px #808080;
+}
