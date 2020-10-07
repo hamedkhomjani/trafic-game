@@ -159,3 +159,16 @@ body {
     text-align: center;
     display: none;
 }
+
+#restart {
+    border: none;
+    padding: 30px;
+    color: bisque;
+    background-color: blanchedalmond;
+    font-size: 30px;
+    margin-top: 30%;
+}
+
+.small_text {
+    font-size: 10px;
+}
